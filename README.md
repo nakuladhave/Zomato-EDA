@@ -97,7 +97,9 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook Zomato_EDA.ipynb
 ```
 
----
+## 📊 Power BI Dashboard Preview
+![Dashboard](dashboard.png)
+
 
 ## 👤 Author
 
