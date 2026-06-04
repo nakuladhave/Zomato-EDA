@@ -98,7 +98,7 @@ jupyter notebook Zomato_EDA.ipynb
 ```
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard](Screenshot 2026-06-04 153520.png)
+![Dashboard](Screenshot%202026-06-04%20153520.png)
 
 
 ## 👤 Author
